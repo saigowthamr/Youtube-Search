@@ -1,5 +1,6 @@
-# vuexsamp
+# Simple Youtube App 
 
+![Preview](https://github.com/saigowthamr/Youtube-Search/blob/master/screenshot/screenshot.png)
 
 
 > A Vue.js project
