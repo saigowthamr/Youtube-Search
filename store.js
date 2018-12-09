@@ -11,7 +11,7 @@ export const store = new Vuex.Store({
      spinner:false,
      videoli:[],
      singVideo:[],
-     apiKey:'AIzaSyBLkdyCkzSsPnFYa3H8NGh0OMMOkp9S2vM'
+     apiKey:'AIzaSyBLkdyCkzSsPnFYa3H8NGh0OMMOkp9S2vcvhgchchcgfgffgM'
    
 },
    getters:{
